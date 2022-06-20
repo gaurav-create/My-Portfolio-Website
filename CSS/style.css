@@ -455,16 +455,25 @@
      background-color: var(--first-color);
  }
  .skills_html{
-     width: 90%;
+     width: 70%;
  }
  .skills_css{
-     width: 80%;
+     width: 70%;
  }
  .skills_c{
-     width: 60%;
+     width: 80%;
  }
  .skills_cplus{
      width:80%;
+ }
+ .skills_Matlab{
+    width:50%;
+ }
+ .skills_Tanner{
+     width: 70%;
+ }
+ .skills_inkscape{
+     width: 80%;
  }
  .skills-close .skills_list{
      height: 0;
