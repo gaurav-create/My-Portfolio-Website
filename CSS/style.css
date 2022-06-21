@@ -842,6 +842,7 @@
 /* For Large Devices */
 @media screen and (min-width: 1024px)
 {
+    
     .header,
     .main,
     .footer_container{
